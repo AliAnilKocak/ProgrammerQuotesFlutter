@@ -1,8 +1,5 @@
-import 'dart:convert';
-
 import 'package:flutter/material.dart';
 import 'package:programmerquotes/models/QuetoModel.dart';
-import 'package:programmerquotes/services/QuetoService.dart';
 
 import '../data.dart';
 
