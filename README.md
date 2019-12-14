@@ -4,9 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![Screen Shot](https://github.com/AliAnilKocak/ProgrammerQuotesFlutter/blob/master/ss.png)
 
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
