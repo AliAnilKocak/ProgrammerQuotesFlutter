@@ -42,7 +42,7 @@ class _HomePageState extends State<HomePage> {
               child: Align(
                 alignment: Alignment.center,
                 child: Text(
-                  "Programming Quetos",
+                  "Programming Quotes",
                   style: TextStyle(
                       fontSize: 18, color: Colors.white.withAlpha(232)),
                 ),

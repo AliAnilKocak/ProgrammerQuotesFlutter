@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/AliAnilKocak/ProgrammerQuotesFlutter/blob/master/ss.png)
 
 This project is a starting point for a Flutter application.
 
